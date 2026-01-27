@@ -1,0 +1,29 @@
+# Database files
+*.sql~
+*.sql.bak
+
+# CSV data files (if sensitive)
+*.csv
+
+# MySQL files
+*.ibd
+*.frm
+*.MYD
+*.MYI
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Backup files
+*~
+*.backup
